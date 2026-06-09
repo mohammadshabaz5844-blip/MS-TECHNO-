@@ -1,4 +1,4 @@
-#MS TECHNO <!DOCTYPE html>
+#MS TECHNO
 <html lang="en">
 <head>
 <meta charset="UTF-8">
