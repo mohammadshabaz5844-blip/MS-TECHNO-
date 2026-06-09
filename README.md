@@ -27,7 +27,7 @@ footer{background:#0b1f3a;color:white;padding:20px;text-align:center}
 </section>
 
 <section id="products" class="products">
-<div class="card"><h3>Turbo MINI FAN </h3><p> Powerful Turbo mini fan classy , premium easy to your daily life.</p></div>
+<div class="card"><h3>Turbo MINI FAN </h3><p> Powerful Turbo mini fan classy and premium make easy to your daily life.</p></div>
 <div class="card"><h3>PREMIUM MINI WASHING MACHINE</h3><p>This product is premium and very easy to use wash your clothes and babys clothes.</p></div>
 <div class="card"><h3>Product 3</h3><p>Add your product details here.</p></div>
 <div class="card"><h3>Product 4</h3><p>Add your product details here.</p></div>
