@@ -27,7 +27,7 @@ footer{background:#0b1f3a;color:white;padding:20px;text-align:center}
 </section>
 
 <section id="products" class="products">
-<div class="card"><h3>Product 1</h3><p>Add your product details here.</p></div>
+<div class="card"><h3>turbo mini fan </h3><p> Powerful Turbo mini fan classy , premium easy to your daily life.</p></div>
 <div class="card"><h3>Product 2</h3><p>Add your product details here.</p></div>
 <div class="card"><h3>Product 3</h3><p>Add your product details here.</p></div>
 <div class="card"><h3>Product 4</h3><p>Add your product details here.</p></div>
